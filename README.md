@@ -1,3 +1,3 @@
 # Coding
 c &amp; linux Code
-BIN/BASH
+BIN/BASH LINUX MINT / UBUNTU / DEBIAN
